@@ -3,13 +3,14 @@
 🚀 Développeur web passionné, je construis des applications modernes avec :
 - 🎯 **Symfony** & **PHP** pour des backends robustes
 - ⚡ **TWIG && Stimulus** pour des frontends réactifs
-- 🐘 **PostgreSQL** côté base des données
+- 🐘 **PostgreSQL** côté base de données
 
-🌱 Actuellement en j'aime m'amuser avec **Java** et **React** pour élargir mes compétences techniques
+🌱 Actuellement, j'aime m'amuser avec **Java** et **React** pour élargir mes compétences techniques.
 
 ## 🏃‍♂️ En dehors du code
 
-Quand je ne suis pas devant mon écran, vous me trouverez sur les chemins de course à pied ! Passionné d'athlétisme, je m'implique activement au Racing Club Nantais où je suis entraîneur bénévole pour la section hors stade compétition.
+Quand je ne suis pas devant mon écran, vous me trouverez sur les chemins de course à pied ! <br>
+Passionné d'athlétisme, je m'implique activement au [Racing Club Nantais](https://www.racingclubnantais.fr/) 🔵⚪️ où je suis entraîneur bénévole <br> pour la section hors stade compétition.
 
 💻 + 👟 = 💝
 
