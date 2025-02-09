@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Bonjour, je suis <ton nom>
 
-<!--
-**tciles/tciles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Développeur web passionné, je construis des applications modernes avec :
+- 🎯 **Symfony** & **PHP** pour des backends robustes
+- ⚡ **TWIG && Stimulus** pour des frontends réactifs
+- 🐘 **PostgreSQL** côté base des données
 
-Here are some ideas to get you started:
+🌱 Actuellement en j'aime m'amuser avec **Java** et **React** pour élargir mes compétences techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏃‍♂️ En dehors du code
+
+Quand je ne suis pas devant mon écran, vous me trouverez sur les chemins de course à pied ! Passionné d'athlétisme, je m'implique activement au Racing Club Nantais où je suis entraîneur bénévole pour la section hors stade compétition.
+
+💻 + 👟 = 💝
+
+*"Le code comme la course : c'est dans la régularité qu'on progresse !"*
+
+---
+📫 N'hésitez pas à me contacter pour échanger sur le développement ou la course à pied !
