@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis <ton nom>
+# 👋 Bonjour, je suis Thomas
 
 🚀 Développeur web passionné, je construis des applications modernes avec :
 - 🎯 **Symfony** & **PHP** pour des backends robustes
@@ -18,3 +18,5 @@ Passionné d'athlétisme, je m'implique activement au [Racing Club Nantais](http
 
 ---
 📫 N'hésitez pas à me contacter pour échanger sur le développement ou la course à pied !
+
+₿ BTC: bc1qdlwpu0k72tnnnp0ggqjld7qtqhkmg483wgd2sh
